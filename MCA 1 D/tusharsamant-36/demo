@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<table border="1">
+<caption >Time Table -MCA(1st sem)</caption>
+<tr>
+<th>Days</th>
+<th>9:00-9:55</th>
+<th>9:55-10:50</th>
+<th>11:10-12:05</th>
+<th>12:05-1:00</th>
+<th>1:00-1:55</th>
+<th>1:55-2:50</th>
+<th>3:10-4:05</th>
+<th>4:05-5:00</th>
+</tr>
+<tr>
+<td>Mon</td>
+</tr>
+<tr>
+<td>Tue</td>
+</tr>
+<tr>
+<td>Wed</td>
+</tr>
+<tr>
+<td>Thurs</td>
+</tr>
+<tr>
+<td>Fri</td>
+</tr>
+<tr>
+<td>Sat</td>
+</tr>
+</table>
+</body>
+</html>
